@@ -9,12 +9,12 @@ const CONFIG = {
 
   /* ─── 1. BIRTHDAY PERSON ─────────────────────────────── */
   friendName: "DURGA",          // Her name (shown in the slideshow & final page)
-  friendDOB:  "26-07-2026",     // Her date of birth  YYYY-MM-DD  (used to verify input)
+  friendDOB:  "2026-07-26",     // Her date of birth  YYYY-MM-DD  (must match <input type="date"> output — always YYYY-MM-DD, no matter how it's displayed!)
 
   /* ─── 2. UNLOCK DATE & TIME ──────────────────────────── */
   // The exact moment the surprise should unlock and the countdown reaches zero.
   // Format: "YYYY-MM-DDTHH:MM:SS"  (24-hour, local time of the person opening it)
-  unlockDateTime: "26-07-2026T00:00:00",
+  unlockDateTime: "2026-07-26T00:00:00",
 
   /* ─── 3. PHOTOS ──────────────────────────────────────── */
   // Place your photos inside the /photos/ folder and list their filenames here.
