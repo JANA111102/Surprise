@@ -67,7 +67,7 @@ const CONFIG = {
   ],
 
   /* ─── 4. PHOTO INTERVAL ──────────────────────────────── */
-  slideInterval: 3000,          // milliseconds between slides (3000 = 3 seconds)
+  slideInterval: 5000,          // milliseconds between slides (3000 = 3 seconds)
 
   /* ─── 5. FINAL BACKGROUND PHOTO ─────────────────────── */
   // This photo appears FULL-SCREEN behind the birthday message on the last page.
