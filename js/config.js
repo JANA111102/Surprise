@@ -8,7 +8,7 @@
 const CONFIG = {
 
   /* ─── 1. BIRTHDAY PERSON ─────────────────────────────── */
-  friendName: "Priya",          // Her name (shown in the slideshow & final page)
+  friendName: "DURGA",          // Her name (shown in the slideshow & final page)
   friendDOB:  "2007-07-26",     // Her date of birth  YYYY-MM-DD  (used to verify input)
 
   /* ─── 2. UNLOCK DATE & TIME ──────────────────────────── */
